@@ -1,0 +1,9 @@
+.col-con{
+	color: #4e4613;
+	background-color: #0ba289;
+	min-height: 80px;
+	line-height: 80px;
+}
+.border-3{
+	border: 3px solid black;
+}
